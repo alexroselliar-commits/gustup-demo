@@ -9,7 +9,7 @@ This early demo allows users to:
 
 ---
 
-## 🎯 Why I Built It
+## Why I Built It
 Choosing a restaurant as a group is usually messy.  
 Different tastes, allergies, and budgets turn a simple decision into a long discussion.
 
@@ -19,12 +19,12 @@ This is an **early prototype**, built to gather real feedback.
 
 ---
 
-## 🔗 Live Demo
-👉 https://gustup.com
+## Live Demo
+https://gustup.com
 
 ---
 
-## 🚧 Work in Progress
+## Work in Progress
 Planned improvements:
 
 - More advanced ranking algorithm  
@@ -36,12 +36,12 @@ Planned improvements:
 
 ---
 
-## 🧑‍💻 Tech Notes
+## Tech Notes
 This demo was built using WordPress + Elementor for rapid development.  
 Future versions will migrate to a full web app (React Native / Expo or Next.js).
 
 ---
 
-## 💬 Feedback
+## Feedback
 Feel free to open an Issue, fork the project, or send feedback.  
 Every suggestion helps improve the product.
